@@ -1,0 +1,44 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "This module template implements Business Card functions."
+    },
+    {
+      "name": "ability_desc",
+      "value": "This ability loads BusinessCardPage."
+    },
+    {
+      "name": "ability_label",
+      "value": "BusinessCard Ability"
+    },
+    {
+      "name": "page_title",
+      "value": "Title"
+    },
+    {
+      "name": "tab_title",
+      "value": "Tab"
+    },
+    {
+      "name": "user_name",
+      "value": "User name"
+    },
+    {
+      "name": "list_item_title",
+      "value": "Double line list"
+    },
+    {
+      "name": "list_item_sub_title",
+      "value": "Auxiliary text"
+    },
+    {
+      "name": "list_item_summary",
+      "value": "Right text"
+    },
+    {
+      "name": "detail_default_title",
+      "value": "Default title"
+    }
+  ]
+}

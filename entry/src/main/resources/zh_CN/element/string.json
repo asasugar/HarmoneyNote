@@ -1,0 +1,44 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "该模板实现了名片详情页的功能"
+    },
+    {
+      "name": "ability_desc",
+      "value": "该Ability加载显示主Page的内容"
+    },
+    {
+      "name": "ability_label",
+      "value": "Business Card Ability"
+    },
+    {
+      "name": "page_title",
+      "value": "标题"
+    },
+    {
+      "name": "tab_title",
+      "value": "页签"
+    },
+    {
+      "name": "user_name",
+      "value": "用户名称"
+    },
+    {
+      "name": "list_item_title",
+      "value": "双行列表"
+    },
+    {
+      "name": "list_item_sub_title",
+      "value": "辅助文本"
+    },
+    {
+      "name": "list_item_summary",
+      "value": "右侧文本"
+    },
+    {
+      "name": "detail_default_title",
+      "value": "默认标题"
+    }
+  ]
+}

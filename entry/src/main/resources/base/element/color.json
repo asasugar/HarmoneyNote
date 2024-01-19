@@ -1,0 +1,52 @@
+{
+  "color": [
+    {
+      "name": "start_window_background",
+      "value": "#FFFFFF"
+    },
+    {
+      "name": "common_background",
+      "value": "#F1F3F5"
+    },
+    {
+      "name": "tab_text_normal",
+      "value": "#66000000"
+    },
+    {
+      "name": "tab_text_activated",
+      "value": "#007DFF"
+    },
+    {
+      "name": "item_title",
+      "value": "#FF182431"
+    },
+    {
+      "name": "item_sub_title",
+      "value": "#99182431"
+    },
+    {
+      "name": "divider",
+      "value": "#0D000000"
+    },
+    {
+      "name": "card_background",
+      "value": "#FFFFFF"
+    },
+    {
+      "name": "switch_on",
+      "value": "#007DFF"
+    },
+    {
+      "name": "title",
+      "value": "#000000"
+    },
+    {
+      "name": "detail_list_title",
+      "value": "#182431"
+    },
+    {
+      "name": "detail_list_summary",
+      "value": "#99182431"
+    }
+  ]
+}
